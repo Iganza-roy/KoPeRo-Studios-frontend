@@ -15,15 +15,13 @@ whenever and however you need it in just few steps.</h2>
     <a href="https://github.com/KoPeRo-studios"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/KoPeRo-studios">View Demo</a>
+    <a href="https://youtu.be/OrfDho85Bxg">View Demo</a>
     ·
-    <a href="https://github.com/KoPeRo-studios">Report Bug</a>
+    <a href="https://iganza-roy.github.io/KoPeRo-studios-about/">Landing Page</a>
     ·
     <a href="https://github.com/KoPeRo-studios">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>

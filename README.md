@@ -147,8 +147,6 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 <img src='https://avatars.githubusercontent.com/u/132392673?v=4' style='width: 40px; border-radius: 100%; '/>
-<img src='https://avatars.githubusercontent.com/u/109495506?v=4 ' style='width: 40px; border-radius: 100%; '/>
-<img src='https://avatars.githubusercontent.com/u/123968710?v=4' style='width: 40px; border-radius: 100%;'/>
 
 <!-- LICENSE -->
 ## License

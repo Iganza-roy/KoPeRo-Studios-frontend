@@ -110,7 +110,7 @@ Endpoints:
 - Profile Management: /api/v1/profile/
 - Service Listings: /api/v1/services/
 - Bookings: /api/v1/bookings/
-For further API details and request examples, refer to the backend documentation in [kopero backend Repo](https://github.com/omollpeter/kopero-studios-server).
+For further API details and request examples, refer to the backend documentation in [kopero backend Repo](https://github.com/Iganza-roy/kopero-studios-server).
 
 ## Usage
 1. **Register/Login** as a user or crew member.
@@ -159,12 +159,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 - Roy Kibata - [@Iganzaroy](https://twitter.com/IganzaRoy) - iganzaroy55@gmail.com
-- Peter Omollo - [OmolloPeter](https://twitter.com/Peteromollo) - peterOmollo21@gmail.com
-- Matthew Koech -  [Matthewk](https://twitter.com/matthewkoech) - matthewkoech55@gmail.com
 
-
-
-Project Link: [https://github.com/omollpeter/KoPeRo-studios](https://github.com/omollpeter/kopero-studios)
+Project Link: [https://github.com/omollpeter/KoPeRo-studios](https://github.com/Iganza-roy/KoPeRo-Studios-frontend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

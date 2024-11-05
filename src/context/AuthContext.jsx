@@ -4,6 +4,8 @@ import { toast } from 'sonner';
 
 export const AuthContext = createContext();
 
+// context to handle user login and logout
+
 export const AuthContextProvider = ({ children }) => {
   const [currentUser, setCurrentUser] = useState(
     JSON.parse(localStorage.getItem('user')) || null

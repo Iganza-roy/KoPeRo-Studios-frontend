@@ -3,6 +3,7 @@ import axios from 'axios';
 
 export const CrewContext = createContext();
 
+// context to handle crew login and logout
 export const CrewContextProvider = ({ children }) => {
   const [currentUser, setCurrentUser] = useState(
     JSON.parse(localStorage.getItem('user')) || null

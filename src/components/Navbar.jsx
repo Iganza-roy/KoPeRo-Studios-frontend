@@ -10,7 +10,6 @@ import { toast } from 'sonner';
 
 const Navbar = () => {
   const navigate = useNavigate();
-
   const [dropDown, setDropDown] = useState(false);
   const [token, setToken] = useState(true);
   const { currentUser, logout } = useContext(AuthContext);

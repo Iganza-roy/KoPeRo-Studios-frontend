@@ -3,7 +3,6 @@ import logo from '../assets/logo_light.png';
 import profileImage from '../assets/profileImage.png';
 import { NavLink, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../context/AuthContext';
-// import user_1 from '../assets/user_1.jpg';
 import { HiMenuAlt3 } from 'react-icons/hi';
 import { CgClose } from 'react-icons/cg';
 import { toast } from 'sonner';

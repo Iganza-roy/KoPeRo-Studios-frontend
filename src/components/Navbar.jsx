@@ -3,14 +3,12 @@ import logo from '../assets/logo_light.png';
 import profileImage from '../assets/profileImage.png';
 import { NavLink, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../context/AuthContext';
-// import user_1 from '../assets/user_1.jpg';
 import { HiMenuAlt3 } from 'react-icons/hi';
 import { CgClose } from 'react-icons/cg';
 import { toast } from 'sonner';
 
 const Navbar = () => {
   const navigate = useNavigate();
-
   const [dropDown, setDropDown] = useState(false);
   const [token, setToken] = useState(true);
   const { currentUser, logout } = useContext(AuthContext);

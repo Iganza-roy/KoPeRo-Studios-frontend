@@ -6,7 +6,6 @@ import banner from '../assets/banner_1.png';
 const Banner = () => {
   const navigate = useNavigate();
   const { currentUser } = useContext(AuthContext);
-
   return (
     <div className='flex bg-blue rounded-lg px-6 sm:px-10 md:px-13 lg:px-12 my-20 md:mx-10'>
       <div className='flex-1 py-8 sm:py-10 md:py-16 lg:py-24 lg:pl-5'>

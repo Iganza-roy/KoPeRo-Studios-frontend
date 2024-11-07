@@ -13,9 +13,7 @@ const Login = () => {
     email: '',
     password: '',
   });
-
   const [passwordVisible, setPasswordVisible] = useState(false);
-
   const [err, setErr] = useState(null);
 
   const navigate = useNavigate();

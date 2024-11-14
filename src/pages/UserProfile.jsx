@@ -121,7 +121,6 @@ const UserProfile = () => {
       );
 
       fetchUserProfile();
-
       console.log('User info updated successfully!');
       toast.success('User info updated successfully');
       setIsEdit(false);

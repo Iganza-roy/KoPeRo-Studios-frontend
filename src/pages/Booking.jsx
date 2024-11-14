@@ -9,7 +9,6 @@ import { toast } from 'sonner';
 const Booking = () => {
   const { crewId, serviceId } = useParams();
   const navigate = useNavigate();
-
   useEffect(() => {
     console.log(crewId);
     if (!crewId) {
@@ -17,7 +16,6 @@ const Booking = () => {
       navigate('/crew');
     }
   }, [crewId, navigate]);
-
   const weekDays = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'];
   const [crewInfo, setCrewInfo] = useState({});
   const [crewData, setCrewData] = useState([]);

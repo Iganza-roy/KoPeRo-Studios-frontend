@@ -18,6 +18,7 @@ import CrewAppointments from './Admin/CrewAppointments';
 import PasswordReset from './pages/PasswordReset';
 import PasswordConfirm from './pages/PasswordConfirm';
 
+// creating a router component with the createBrowserRouter function
 const router = createBrowserRouter([
   {
     path: '/',
@@ -57,6 +58,7 @@ const router = createBrowserRouter([
   },
 ]);
 
+// the main App component
 const App = () => {
   return (
     <div className='mx-4 sm:mx-[10%]'>

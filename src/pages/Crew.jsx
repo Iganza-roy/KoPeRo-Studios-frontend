@@ -1,6 +1,4 @@
-// import { useParams } from 'react-router-dom';
 import { MdPeopleAlt } from 'react-icons/md';
-// import { crewData } from '../constants/Crews_constants';
 import StarRating from '../components/StarRating';
 import { useContext, useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';

@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import camera_1 from '../assets/camera_1.svg';
+import camera_1 from '../assets/camera_1.webp';
 import { AuthContext } from '../context/AuthContext';
 import { useContext } from 'react';
 import { toast } from 'sonner';
